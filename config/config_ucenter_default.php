@@ -27,7 +27,7 @@ define('UC_KEY', 'N7w2K5O4n5Xfj3e22dw6f2C4F9i1qbr2D2kcVcx7h82a9e6cGdzaPa9cW1le93
 define('UC_API', 'http://localhost/ucenter/branches/1.5.0/server'); // UCenter 的 URL 地址, 在调用头像时依赖此常量
 define('UC_CHARSET', 'utf-8');				// UCenter 的字符集
 define('UC_IP', '127.0.0.1');				// UCenter 的 IP, 当 UC_CONNECT 为非 mysql 方式时, 并且当前应用服务器解析域名有问题时, 请设置此值
-define('UC_APPID', '1');				// 当前应用的 ID
+define('UC_APPID', '2');				// 当前应用的 ID
 
 // ============================================================================
 
